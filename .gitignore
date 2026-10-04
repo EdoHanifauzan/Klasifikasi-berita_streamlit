@@ -1,0 +1,4 @@
+skripsi_env/
+__pychace__/
+*.pyc
+indobert/model.safetensors
