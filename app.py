@@ -14,7 +14,7 @@ st.set_page_config(
     layout="centered"
 )
 
-MODEL_NAME = "indobert"
+MODEL_NAME =  "indolem/indobert-base-uncased"
 
 LABELS = [
     "Politik",
